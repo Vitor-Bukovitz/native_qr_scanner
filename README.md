@@ -6,7 +6,7 @@ Android API > 24 only.
 
 ## Preview
 
-
+![Preview](https://github.com/Vitor-Bukovitz/native_qr_scanner/blob/master/preview.gif)
 
 ## Getting Started
 
