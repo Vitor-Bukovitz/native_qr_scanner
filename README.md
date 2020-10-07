@@ -1,7 +1,12 @@
 # Native QR Code Scanner
 
 A native QR Code Scanner integrating Flutter with Kotlin. (iOS not supported yet)
+
 Android API > 24 only.
+
+## Preview
+
+
 
 ## Getting Started
 
