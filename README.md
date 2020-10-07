@@ -1,6 +1,6 @@
-# native_qr_scanner
+# Native QR Code Scanner
 
-A native QR Code Scanner
+A native QR Code Scanner integrating Flutter with Kotlin.
 
 ## Getting Started
 
