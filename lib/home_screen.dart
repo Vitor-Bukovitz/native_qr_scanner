@@ -51,7 +51,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   elevation: 10,
                   color: Color(0xff00d663),
                   child: Text(
-                    'Ler QRCode',
+                    'Read QRCode',
                     style: TextStyle(
                       color: Colors.white,
                     ),
@@ -62,7 +62,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     ? Column(
                         children: [
                           Text(
-                            'Resultado:\n',
+                            'Result:\n',
                           ),
                           Text(
                             _qrCodeResult,
